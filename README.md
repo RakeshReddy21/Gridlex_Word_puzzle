@@ -1,1 +1,1 @@
-# Gridlex_Word_puzzle
+# Word_puzzle
